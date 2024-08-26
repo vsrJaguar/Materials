@@ -1,7 +1,8 @@
-# Віртуальний Загін Рейнджерів [Jaguar](https://discord.gg/dkzn4H23KQ).
+# Віртуальний Загін Рейнджерів Jaguar.
 
-<a href="https://discord.gg/dkzn4H23KQ">
-  <img align="left" alt="Anurag Hazra | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<span>Посилання на наш канал в дискорд: </span>
+<a href="https://discord.gg/dkzn4H23KQ" style="display: inline-flex; align-items: center;">
+  <img alt="Jaguar | Discord" width="40px" src="https://github.com/user-attachments/assets/b216bcfc-53b4-4459-b15f-510c9ee630c1" />
 </a>
 
  **КОРОТКА ІСТОРІЯ ЗАГОНУ**
