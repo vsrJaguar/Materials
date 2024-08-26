@@ -1,4 +1,6 @@
-# Віртуальний Загін Рейнджерів Jaguar.
+# Віртуальний Загін Рейнджерів [Jaguar](https://discord.gg/dkzn4H23KQ).
+
+
  **КОРОТКА ІСТОРІЯ ЗАГОНУ**
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.discordapp.com/attachments/300584996178100224/1154079736457330738/jaguar.png?ex=66cdf382&is=66cca202&hm=87b9be7fd21c0b3d572e54a5feb73ddb159fa4c18ccf25fca9500f83e22b1ba5&)
 
